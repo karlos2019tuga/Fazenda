@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.FazendaBlackStone" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:navigationBarColor">#2D2218</item>
+        <item name="android:statusBarColor">#2D2218</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
